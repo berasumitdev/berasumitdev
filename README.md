@@ -7,6 +7,8 @@ I am also deeply interested in blockchain technology, working with the `Cardano`
 
 Feel free to explore my projects and connect with me to collaborate on exciting ideas! 😊
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&layout=compact)
+
  ## 🌐 Socials
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berasumit611)
