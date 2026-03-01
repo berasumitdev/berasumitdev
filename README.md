@@ -8,7 +8,7 @@ I build modern, scalable apps across web, mobile, and blockchain. From full-feat
 Currently focus on R&D on Cardano payment infrastructure, building scalable industry-grade applications, system design and architecture for high-performance software.
 
 ## Technologies 
-`TypeScript`, `JavaScript`, `Java`, `React.js`, `AngularJS`, `React Native`, `Expo`, `Node.js`, `Express.js`, `Spring Boot`, `MongoDB`, `PostgreSQL`, `Convex`, `Clerk`, `Cardano DApp development`, `cardano-cli`, `CIPs` , `Lucid`, `MeshJs`, `Smart Contracts`, `Wallet Integration`
+`TypeScript`, `JavaScript`, `Java`, `React.js`, `React Native`, `Expo`, `Node.js`, `Express.js`, `Spring Boot`, `MongoDB`, `PostgreSQL`, `Convex`, `Clerk`, `Cardano DApp development`, `cardano-cli`, `CIPs` , `Lucid`, `MeshJs`, `Smart Contracts`, `Wallet Integration`
 
 ## Let’s Connect
 Open to collaboration, community contributions, or a good dev conversation.
